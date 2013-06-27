@@ -1,6 +1,6 @@
 The official website is [http://pugixml.org/](http://pugixml.org/).
 
-Basic Usage: (From official documentation)
+Basic Usage: (From official [documentation](http://pugixml.googlecode.com/svn/tags/latest/docs/manual/toc.html) )
 
 ```
 // You can use load_buffer_inplace to load document from mutable memory block; the block's lifetime must exceed that of document
